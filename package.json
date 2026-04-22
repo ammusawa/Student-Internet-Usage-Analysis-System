@@ -1,0 +1,8 @@
+{
+  "name": "student-internet-usage-analysis-system",
+  "private": true,
+  "description": "Student Internet Usage Analysis System — root scripts",
+  "scripts": {
+    "db": "node scripts/run-db.mjs"
+  }
+}
