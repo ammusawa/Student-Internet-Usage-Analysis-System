@@ -1,18 +1,3 @@
-<img width="1347" height="623" alt="Dashboard" src="https://github.com/user-attachments/assets/51d865e5-3bda-4285-8ddd-41fbc781abc9" />
-<img width="1340" height="615" alt="Analysis" src="https://github.com/user-attachments/assets/b16380d1-3de1-4e16-b642-62f4cb9b2cb3" />
-<img width="1322" height="593" alt="Access Requests" src="https://github.com/user-attachments/assets/936d47f8-0835-414a-b991-f75efe72b718" />
-<img width="1337" height="617" alt="Users" src="https://github.com/user-attachments/assets/a07186db-d7cc-4540-af89-57303c7cd9e3" />
-<img width="1352" height="617" alt="Upload Logs" src="https://github.com/user-attachments/assets/3b8d83e8-e356-40c8-a657-21a9c9977b9d" />
-<img width="1337" height="611" alt="Traffic" src="https://github.com/user-attachments/assets/8d62c9f9-abd2-4c8c-9020-129ab161b700" />
-<img width="737" height="385" alt="Successful Login" src="https://github.com/user-attachments/assets/abc5da5a-5628-468e-80fa-38ec5866d6f2" />
-<img width="1355" height="622" alt="Request Approve Successful" src="https://github.com/user-attachments/assets/ac38716e-c92c-4212-b694-940aa3b5ecb3" />
-<img width="590" height="421" alt="Register" src="https://github.com/user-attachments/assets/d4eeaaa7-1c53-49fc-a8db-9ea8cc5f3fb5" />
-<img width="624" height="467" alt="Register Successful" src="https://github.com/user-attachments/assets/d03348c4-8d9c-4a4a-8236-084d346c12cb" />
-<img width="530" height="561" alt="Pending Admin Approval" src="https://github.com/user-attachments/assets/f05077ba-3137-4138-b3c1-05aafa6825fc" />
-<img width="781" height="544" alt="Login" src="https://github.com/user-attachments/assets/ef46f52a-3aa3-4a66-a931-4b5ded780023" />
-<img width="545" height="542" alt="Incorrect Password" src="https://github.com/user-attachments/assets/090e4e6d-6504-4b42-9bef-b22f925398b5" />
-<img width="1341" height="622" alt="Identity" src="https://github.com/user-attachments/assets/a3990aa5-0e75-4f0e-818d-f80ee53c02ca" />
-<img width="1343" height="610" alt="Data" src="https://github.com/user-attachments/assets/aed05366-c027-4209-9fc3-404c061d17bc" />
 # Student Internet Usage Analysis System
 
 Identity-based internet monitoring and captive-portal control for school networks.
@@ -228,4 +213,34 @@ Configure client devices to use:
 ## License
 
 No license file is currently included. Add one before public distribution.
+
+<img width="1347" height="623" alt="Dashboard" src="https://github.com/user-attachments/assets/51d865e5-3bda-4285-8ddd-41fbc781abc9" />
+
+<img width="1340" height="615" alt="Analysis" src="https://github.com/user-attachments/assets/b16380d1-3de1-4e16-b642-62f4cb9b2cb3" />
+
+<img width="1322" height="593" alt="Access Requests" src="https://github.com/user-attachments/assets/936d47f8-0835-414a-b991-f75efe72b718" />
+
+<img width="1337" height="617" alt="Users" src="https://github.com/user-attachments/assets/a07186db-d7cc-4540-af89-57303c7cd9e3" />
+
+<img width="1352" height="617" alt="Upload Logs" src="https://github.com/user-attachments/assets/3b8d83e8-e356-40c8-a657-21a9c9977b9d" />
+
+<img width="1337" height="611" alt="Traffic" src="https://github.com/user-attachments/assets/8d62c9f9-abd2-4c8c-9020-129ab161b700" />
+
+<img width="737" height="385" alt="Successful Login" src="https://github.com/user-attachments/assets/abc5da5a-5628-468e-80fa-38ec5866d6f2" />
+
+<img width="1355" height="622" alt="Request Approve Successful" src="https://github.com/user-attachments/assets/ac38716e-c92c-4212-b694-940aa3b5ecb3" />
+
+<img width="590" height="421" alt="Register" src="https://github.com/user-attachments/assets/d4eeaaa7-1c53-49fc-a8db-9ea8cc5f3fb5" />
+
+<img width="624" height="467" alt="Register Successful" src="https://github.com/user-attachments/assets/d03348c4-8d9c-4a4a-8236-084d346c12cb" />
+
+<img width="530" height="561" alt="Pending Admin Approval" src="https://github.com/user-attachments/assets/f05077ba-3137-4138-b3c1-05aafa6825fc" />
+
+<img width="781" height="544" alt="Login" src="https://github.com/user-attachments/assets/ef46f52a-3aa3-4a66-a931-4b5ded780023" />
+
+<img width="545" height="542" alt="Incorrect Password" src="https://github.com/user-attachments/assets/090e4e6d-6504-4b42-9bef-b22f925398b5" />
+
+<img width="1341" height="622" alt="Identity" src="https://github.com/user-attachments/assets/a3990aa5-0e75-4f0e-818d-f80ee53c02ca" />
+
+<img width="1343" height="610" alt="Data" src="https://github.com/user-attachments/assets/aed05366-c027-4209-9fc3-404c061d17bc" />
 
