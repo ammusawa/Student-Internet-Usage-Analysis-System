@@ -1,0 +1,11 @@
+timestamp,ip_address,url,bytes
+2026-04-10 08:30:00,192.168.1.10,https://wikipedia.org/wiki/Science,15728640
+2026-04-10 08:45:00,192.168.1.10,https://github.com/microsoft,5242880
+2026-04-10 09:12:00,192.168.1.11,https://youtube.com/watch?v=123,262144000
+2026-04-10 09:30:00,192.168.1.11,https://google.com/search?q=test,1048576
+2026-04-10 09:45:00,192.168.1.12,https://facebook.com,31457280
+2026-04-10 10:05:00,192.168.1.12,https://instagram.com,52428800
+2026-04-11 11:15:00,192.168.1.10,https://wikipedia.org/wiki/Math,10485760
+2026-04-11 12:00:00,192.168.1.11,https://tiktok.com,157286400
+2026-04-11 14:30:00,192.168.1.12,https://netflix.com,524288000
+2026-04-12 09:00:00,192.168.1.10,https://github.com/openai,8388608
